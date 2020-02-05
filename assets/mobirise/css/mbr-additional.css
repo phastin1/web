@@ -1532,9 +1532,9 @@ section.lazy-placeholder:after {
   display: none;
 }
 .cid-rPB4zpjN5H {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rPB4zpjN5H .title {
   margin-bottom: 2rem;
@@ -1551,4 +1551,7 @@ section.lazy-placeholder:after {
 }
 .cid-rPB4zpjN5H textarea.form-control {
   min-height: 188px;
+}
+.cid-rPB4zpjN5H LABEL {
+  text-align: left;
 }
