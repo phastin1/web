@@ -717,6 +717,27 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #b2ccd2;
 }
+.cid-rRmKRU51EZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rRmKRU51EZ .title {
+  margin-bottom: 2rem;
+}
+.cid-rRmKRU51EZ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rRmKRU51EZ a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rRmKRU51EZ a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rRmKRU51EZ textarea.form-control {
+  min-height: 188px;
+}
 .cid-rPB81hF42r {
   padding-top: 60px;
   padding-bottom: 60px;
